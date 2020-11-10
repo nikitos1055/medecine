@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2d226fd-e4a4-4e48-8bdf-851df50b9a26" name="Default Changelist" comment="" />
+    <list default="true" id="c2d226fd-e4a4-4e48-8bdf-851df50b9a26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aboutUs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/aboutStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forUserDoctors.html" beforeDir="false" afterPath="$PROJECT_DIR$/forUserDoctors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/mainPage.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,19 +18,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k3LGz5E43sa9x9OhlsykLId4Tc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/photos" />
@@ -36,6 +49,7 @@
       <recent name="$PROJECT_DIR$/photos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/photos" />
     </key>
   </component>
@@ -47,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604924236926</updated>
-      <workItem from="1604924237948" duration="12647000" />
+      <workItem from="1604924237948" duration="13966000" />
     </task>
     <servers />
   </component>
@@ -55,6 +69,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="580" y="336" key="Github.ShareDialog" timestamp="1605008789488">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="580" y="336" key="Github.ShareDialog/0.23.1440.819@0.23.1440.819" timestamp="1605008789488" />
+    <state x="489" y="144" key="Github.UntrackedFilesDialog" timestamp="1605008797984">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="489" y="144" key="Github.UntrackedFilesDialog/0.23.1440.819@0.23.1440.819" timestamp="1605008797984" />
     <state x="213" y="71" key="SettingsEditor" timestamp="1605005112984">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
