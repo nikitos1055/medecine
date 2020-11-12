@@ -10,6 +10,7 @@
     cursor: pointer;
 }
 
+
 i{
     font-size: 70px;
     width: 100%;
@@ -23,11 +24,11 @@ i{
 
 
 
-.element-card:hover {
+.element-card:hover , .card-best:hover {
     transform: rotatey(20deg) translatex(0px) translatey(0px);
 }
 
-.element-card.open {
+.element-card.open , .card-best.open{
     width: 300px;
     height: 400px;
     transform: rotatey(-180deg) translatex(0px) translatey(0px);
@@ -133,6 +134,7 @@ p a:hover, a:focus {
     color: #fff;
     background-color: #2980b9;
 }
+
 
 
 

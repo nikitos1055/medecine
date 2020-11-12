@@ -13,7 +13,7 @@ body{
 .bg {
     height: 100vh;
     width: 100%;
-    background: url("../photos/background.png") center no-repeat;
+    background: url("../photos/DocBg.jpg") center no-repeat;
     background-size: cover;
     position: relative;
     padding-top: 30px;
@@ -48,7 +48,7 @@ nav{
     flex: 1;
 }
 
-nav ul li{
+ul li{
     list-style: none;
     display: inline-block;
     margin-right: 60px;
@@ -60,8 +60,72 @@ nav ul li a{
     font-size: 14px;
 }
 
+/*HAMBURGER*/
+ul.sub {
+    position: absolute;
+    z-index: 200;
+    box-shadow: 2px 2px 0 #1C2833;
+    width: auto;
+    display:none;
+    text-align: left;
+    padding: 0;
+}
+
+ul.sub li {
+    float: none;
+    margin: 0;
+}
+
+ul.sub li a {
+    border-bottom: 1px solid #1C2833 ;
+    text-decoration: none;
+}
+
+ul.sub li:last-child a {
+    border-bottom: none;
+}
+
+ul.sub li a:hover {
+    color: #fff;
+    background: rgba(29, 33, 61, 0.5);
+}
+
+ul.primary{
+    padding: 0;
+}
+
+ul.primary li:hover ul {
+    display: flex;
+    flex-direction:column ;
+    background: rgba(29, 33, 61, 0.5);
+}
+
+/* keeps the tab background white */
+ul.primary li:hover a {
+    color: #fff;
+    text-shadow: none;
+}
+
+ul.primary li:hover > a{
+    color: #fff;
+}
+
+ul.primary li a {
+    display: block;
+    padding: 15px 30px;
+    border-right: 1px solid #3D3D3D;
+}
+
+ul.primary li:last-child a {
+    border-right: none;
+}
+
+ul.primary li a:hover {
+    color: #fff;
+}
+
+/*HAMBURGER*/
 nav ul li a:hover{
-    /*text-shadow: 0px 0px 15px rgba(0,255,221,1.6);*/
     color: #fff;
     text-shadow:
             0 0 5px #fff,
@@ -96,7 +160,7 @@ nav .active{
 
 .user img{
     width: 30px;
-    margin-left: 15px;
+    /*margin-left: 15px;*/
     cursor: pointer;
 }
 

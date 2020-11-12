@@ -2,26 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d226fd-e4a4-4e48-8bdf-851df50b9a26" name="Default Changelist" comment="some more">
-      <change afterPath="$PROJECT_DIR$/MyAccount.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zapusatys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/cardsStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/forAll.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/myAccount.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/cardFlip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/medecine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/medecine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DocBg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAccount.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyAccount.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zapusatys.html" beforeDir="false" afterPath="$PROJECT_DIR$/Zapusatys.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/aboutStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/aboutStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/forUserStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/cardsStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/cardsStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/forAll.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/forAll.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mainPageStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mainPageStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/regStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/regStyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forUserDoctors.html" beforeDir="false" afterPath="$PROJECT_DIR$/forUserDoctors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cardFlip.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/cardFlip.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mainPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/mainPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/fb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/pt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/tw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/register-loginPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/register-loginPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/background2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/bg1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/user.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +39,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k3LGz5E43sa9x9OhlsykLId4Tc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -75,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604924236926</updated>
-      <workItem from="1604924237948" duration="40886000" />
+      <workItem from="1604924237948" duration="48850000" />
     </task>
     <task id="LOCAL-00001" summary="some more">
       <created>1605010519504</created>
@@ -84,13 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605010519504</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="some more">
+      <created>1605185434865</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605185434865</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="some more" />
     <option name="LAST_COMMIT_MESSAGE" value="some more" />
   </component>
@@ -111,10 +120,10 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="213" y="71" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1605005112984" />
-    <state x="311" y="172" key="Vcs.Push.Dialog.v2" timestamp="1605010522931">
+    <state x="311" y="172" key="Vcs.Push.Dialog.v2" timestamp="1605185438005">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state x="311" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.819@0.23.1440.819" timestamp="1605010522931" />
+    <state x="311" y="172" key="Vcs.Push.Dialog.v2/0.23.1440.819@0.23.1440.819" timestamp="1605185438005" />
     <state x="376" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1605045391874">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
